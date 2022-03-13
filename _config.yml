@@ -24,12 +24,12 @@ store:
 #   description → Whether or not the list will display the trait's description.
   traits:
     conflicts: false
-    stats: false
-    karma: false
-    limit: false
+    stats: true
+    karma: true
+    limit: true
     description: true
-    usage: false
-    mod: false
+    usage: true
+    mod: true
   kinds:
     mod: true
     karma: true
