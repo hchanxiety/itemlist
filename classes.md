@@ -4,7 +4,9 @@ layout: page
 permalink: /classes
 ---
 
-# ![Test Image](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f721291634dd4389bb7a2dcf1df73b89/default/dark/1.0) Welcome to your Rimworld of Magic Class Guide! ![Test Image](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f721291634dd4389bb7a2dcf1df73b89/default/dark/1.0)
+# Welcome to your Rimworld of Magic Class Guide! 
+
+![Test Image](https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f721291634dd4389bb7a2dcf1df73b89/default/dark/1.0)
 
 This page is currently undergoing construction to provide you with more information, 
 for now you can simply see a list of all available classes that you can add to your pawn, with brief descriptions. All classes are 
