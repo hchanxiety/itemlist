@@ -93,7 +93,7 @@ what they do on the [commands]({{- "/commands" | relative_url -}}) page.
 
 ## Feedback?
 
-This database is currently managed by [{{Anxietyhug}}](https://twitch.tv/Anxietyhug). Send me a DM for feedback or updates needed.
+This database is currently managed by [Anxietyhug](https://twitch.tv/Anxietyhug). Send me a DM for feedback or updates needed.
 
 
 {%- if puppeteer -%}
